@@ -1,5 +1,5 @@
 ---
-# Analysus AirBnB Hotel Price
+# Analysis of AirBnB Hotel Price
 
 ### Serving for the course Data Science - IT4142E
 
